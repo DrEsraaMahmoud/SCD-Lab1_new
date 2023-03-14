@@ -6,7 +6,7 @@ Public class Hello{
             name = argv[0];
     }
 
-    System.out.printLn("Hello, " + name + " !");
+    System.out.printLn(name + " !");
 }
 
 }
