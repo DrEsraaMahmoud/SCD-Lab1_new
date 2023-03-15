@@ -1,7 +1,7 @@
 Public class Hello{
 
    Public static void main(String argv[]){
-          String name"World";
+          String name"new";
           if(argv.length !=0){
             name = argv[0];
     }
